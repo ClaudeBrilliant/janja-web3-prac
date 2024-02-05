@@ -1,0 +1,9 @@
+body {
+    background-color: orange;
+}
+.head{
+    text-align: center;
+}
+.head>img{
+    background-color: orange;
+}
